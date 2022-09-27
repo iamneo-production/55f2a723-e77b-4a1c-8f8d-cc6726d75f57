@@ -1,4 +1,4 @@
-import com.example.movieap;
+package com.example.movieap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
