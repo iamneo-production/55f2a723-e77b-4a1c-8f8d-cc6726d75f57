@@ -3,7 +3,6 @@ import './login.css'
 
 import {useNavigate} from 'react-router-dom';
 
-import LoginImage from '../Images/login.jpg'
 
 const Login  = () => {
 
@@ -14,12 +13,16 @@ const Login  = () => {
     function handleuser(event){
         event.preventDefault();
         console.log(event.target.value);
-        userLogin();
+        
+        userLogin()
+        
+
     }
     function handleadmin(event){
         event.preventDefault();
         console.log(event.target.value);
-        adminLogin();
+        adminLogin()
+        
     }
     function handlesignup(event){
         event.preventDefault();

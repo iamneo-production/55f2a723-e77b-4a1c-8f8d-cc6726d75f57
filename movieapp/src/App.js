@@ -8,7 +8,7 @@ import Admin from './AdminComponent/admin'
 import Login from './LoginComponent/login'
 import Signup from './LoginComponent/signup';
 
-
+import ViewMovies from './ViewMovies/viewmovies'
 function App() {
   return (
       <div>
@@ -17,6 +17,7 @@ function App() {
         <Route path="/admin" element = {<Admin/>} />
         <Route path="/user" element = {<User/>} />
         <Route path="/signup" element = {<Signup/>} />
+        <Route path="/viewmovies" element = {<ViewMovies/>} />
         </Routes>
       </div>
   );

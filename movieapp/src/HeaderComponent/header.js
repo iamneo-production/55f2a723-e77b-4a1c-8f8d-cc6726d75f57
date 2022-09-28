@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { useState } from 'react';
 import './header.css'
 
@@ -18,8 +18,8 @@ const Header = () => {
 
             <nav class={MenuToggle ? "nav-contents" : "nav-contents anim"}>
                 <ul>
-                    <li><a href="/user">Home</a></li>
-                    <li><a href="/viewmovies"> View Movies</a></li>
+                    <li><a href="/admin">Home</a></li>
+                    <li><a href="/viewmovies">View Movies</a></li>
                     <li><a href="/">Logout</a></li>
                 </ul>
             </nav>
