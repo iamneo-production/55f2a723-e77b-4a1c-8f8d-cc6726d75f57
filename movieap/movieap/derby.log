@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 27 22:35:03 UTC 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-8116-de4a-000008fad6d0 
+on database directory memory:/home/coder/project/workspace/movieap/movieap/54138785-6b6f-4fde-95c1-f0f02edd2b24 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/coder/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.14+9-Ubuntu-0ubuntu2.20.04
+user.dir=/home/coder/project/workspace/movieap/movieap
+os.name=Linux
+os.arch=amd64
+os.version=5.4.188+
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
