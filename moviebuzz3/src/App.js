@@ -9,10 +9,6 @@ import Adminlogin from "./Pages/Adminlogin";
 import Home from "./Pages/Home";
 
 function App() {
-  /*const [token, setToken] = useState();
-  if(!token) {
-    return <Login setToken={setToken} />
-  }*/
   return (
     <BrowserRouter>
       <Routes>
