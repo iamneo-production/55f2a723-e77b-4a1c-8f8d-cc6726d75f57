@@ -2,6 +2,7 @@ package com.example.movieap.Daolayer;
 import com.example.movieap.entities.*;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-public interface DaoLayer extends JpaRepository<Signup,String> {
+public interface Likedaomodel extends JpaRepository<LikeModel,String> {
     
 }
+
